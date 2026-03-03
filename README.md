@@ -1,4 +1,4 @@
-# HiddenSpots - mobilna aplikacija u sklopu LUMEN Development natjecanja
+# HiddenSpot - mobilna aplikacija u sklopu LUMEN Development natjecanja
 HiddenSpot je mobilna aplikacija koja pomoću GPS-a i kamere korisnicima otkriva skrivene i autentične lokacije u gradu. Aplikacija personalizira preporuke u stvarnom vremenu te omogućuje interaktivnu navigaciju i istraživanje manje poznatih mjesta.
 
 Ciljana skupina korisnika su turisti u dobi od 18 do 35 godina, studenti na razmjeni, digitalni nomadi te mlađi lokalni stanovnici koji žele istraživati grad na drugačiji način. Riječ je o korisnicima koji preferiraju autentična iskustva umjesto klasičnih turističkih atrakcija.
