@@ -16,7 +16,6 @@ U razdoblju od dvije godine cilj nam je proširiti aplikaciju na više europskih
 
 Aplikaciju planiramo razviti za Android i iOS platforme, uz mogućnost web verzije putem responzivnog dizajna.
 Frontend će biti razvijen korištenjem React Native tehnologije kako bi se omogućio razvoj za više platformi istovremeno. Backend sustav temeljit će se na Node.js okruženju i PostgreSQL bazi podataka. Autentikacija korisnika bit će implementirana korištenjem OAuth protokola i JSON Web Tokena.
-Aplikacija će koristiti GPS i senzore orijentacije uređaja, dok će kamera omogućiti prikaz navigacijskih elemenata u proširenoj stvarnosti. Umjetna inteligencija koristit će se za generiranje personaliziranih preporuka, uz transparentnu i etičnu obradu podataka u skladu s GDPR regulativom.
 
 Nakon završetka natjecanja planiramo dodatno unaprijediti sustav preporuka analizom ponašanja korisnika unutar aplikacije. Također planiramo proširiti bazu gradova. Dugoročno, cilj je razviti platformu koja bi mogla služiti kao digitalni alat za turističke zajednice i gradove, omogućujući im bolje razumijevanje potreba posjetitelja.
 
